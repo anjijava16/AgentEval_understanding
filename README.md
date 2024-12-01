@@ -26,3 +26,7 @@ https://microsoft.github.io/autogen/0.2/blog/2023/11/20/AgentEval/
 https://github.com/microsoft/autogen/blob/0.2/notebook/agenteval_cq_math.ipynb
 
 https://github.com/ag2ai/ag2/blob/main/test/test_files/agenteval-in-out/samples/sample_math_evaluated_results.json
+
+
+# Langsmith
+1. https://github.com/langchain-ai/langsmith-cookbook/blob/main/testing-examples/agent_steps/evaluating_agents.ipynb
