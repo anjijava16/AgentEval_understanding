@@ -14,4 +14,15 @@ Here's a practical example of using AgentEval for a math problem-solving applica
 
 
 # Reference:
+
 https://github.com/Narabzad/AgentEval/tree/main
+
+https://github.com/ag2ai/ag2/tree/main/autogen/agentchat/contrib/agent_eval
+
+https://microsoft.github.io/autogen/0.2/blog/2024/06/21/AgentEval/
+
+https://microsoft.github.io/autogen/0.2/blog/2023/11/20/AgentEval/
+
+https://github.com/microsoft/autogen/blob/0.2/notebook/agenteval_cq_math.ipynb
+
+https://github.com/ag2ai/ag2/blob/main/test/test_files/agenteval-in-out/samples/sample_math_evaluated_results.json
